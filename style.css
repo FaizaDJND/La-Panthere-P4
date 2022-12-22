@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -741,6 +741,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 269px;
 }
 
 .portfolio-row {

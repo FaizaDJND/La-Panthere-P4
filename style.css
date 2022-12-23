@@ -722,7 +722,9 @@ h1 {
 .portfolio-thumb {
     margin-bottom: 24px;
     width: 269px;
-    max-width: 100%
+    max-width: 100%;
+    height: 271px;
+    object-fit: cover;
 }
 
 .portfolio-row {

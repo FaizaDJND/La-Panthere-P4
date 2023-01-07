@@ -820,7 +820,9 @@ h1 {
 @media (max-width:1024px) {
     .bloc {
         padding-left: 20px;
-        padding-right: 20px
+        padding-right: 20px;
+        overflow-X :hidden;
+
     }
 
     .bloc.full-width-bloc,
